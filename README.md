@@ -1,6 +1,6 @@
 [![Apache 2.0 License](https://img.shields.io/badge/license-Apache-blue.svg?style=flat)](LICENSE.md)
 
-# ai-code-translator
+# gpt-code-translator
 Translate any of your source code file into Python code, or translate the source code for other languages.
 
 Dependencies
