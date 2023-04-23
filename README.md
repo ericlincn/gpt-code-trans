@@ -3,7 +3,7 @@
 # gpt-code-trans
 Translate any source code file into Python code, or translate the source code for other languages. Default to using GPT-3.5 text-davinci-003 model.
 
-## Dependencies
+## Requirements
 - requests
 
 ## Usage
